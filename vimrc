@@ -67,6 +67,7 @@ Bundle 'wlangstroth/vim-racket'
 
 Plugin 'burnettk/vim-angular'
 Plugin 'suan/vim-instant-markdown'
+Plugin 'vim-latex/vim-latex'
 
 " Required after vundle plugin definitions
 filetype plugin indent on
